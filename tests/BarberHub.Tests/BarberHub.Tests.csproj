@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\BarberHub.Application\BarberHub.Application.csproj" />
     <ProjectReference Include="..\..\src\BarberHub.Domain\BarberHub.Domain.csproj" />
   </ItemGroup>
 
