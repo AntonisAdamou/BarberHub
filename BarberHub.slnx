@@ -5,4 +5,7 @@
     <Project Path="src/BarberHub.Domain/BarberHub.Domain.csproj" />
     <Project Path="src/BarberHub.Infrastructure/BarberHub.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BarberHub.Tests/BarberHub.Tests.csproj" />
+  </Folder>
 </Solution>
